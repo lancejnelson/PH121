@@ -10,8 +10,8 @@ folder: course_docs
 ---
 
 
-[Day 1 - Class Intro/Oscillations][day1]
+[Day 1 - Class Intro/Motion][day1]
 
-[day1]: ../course_docs/slides/Day01Intro_to_Oscillations.pdf
+[day1]: ../course_docs/slides/Day01IntroToMotion.pdf
 
 
