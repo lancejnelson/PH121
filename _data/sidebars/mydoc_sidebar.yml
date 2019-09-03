@@ -36,6 +36,16 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Gradebook
+      external_url: https://byui.instructure.com/courses/58656/gradebook
+      output: web, pdf
+      type: homepage
+
+    - title: Textbook/HW access
+      external_url: https://byui.instructure.com/courses/58656/modules/items/5545948
+      output: web, pdf
+      type: homepage
+
 
   - title: Course Materials
     output: web, pdf
@@ -61,12 +71,63 @@ entries:
       output: web, pdf
 
     - title: Apptitude Quiz
-      url: https://byui.instructure.com\/courses\/58656\/quizzes\/829691
+      external_url: https://byui.instructure.com/courses/58656/quizzes/829691?module_item_id=5545962
       output: web, pdf
 
   - title: Numerical Problems
     output: web, pdf
     folderitems:
+    - title: Week 1 - Basic Math in Python
+      url: /files\/numericalHW\/basicMath.pdf
+      output: web, pdf
+
+    - title: Week 2 - Python is your calculator
+      url: /files\/numericalHW\/doaHWProbleminPython.pdf
+      output: web, pdf
+
     - title: Week 3 - Vectors
       url: /files\/numericalHW\/vectors.pdf
       output: web, pdf
+
+  - title: Weekly Quizzes
+    output: web, pdf
+    folderitems:
+    - title: View Past Quiz Results
+      url: /viewingQuizResults.html
+      output: web, pdf 
+    - title: Week 2 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975483
+      output: web, pdf
+    - title: Week 3 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975487
+      output: web, pdf
+    - title: Week 4 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975491
+      output: web, pdf
+    - title: Week 5 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975495
+      output: web, pdf
+    - title: Week 6 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975499
+      output: web, pdf
+    - title: Week 7 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975503
+      output: web, pdf
+    - title: Week 8 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975507
+      output: web, pdf
+    - title: Week 9 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975511
+      output: web, pdf
+    - title: Week 10 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975469
+      output: web, pdf
+    - title: Week 12 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975473
+      output: web, pdf
+    - title: Week 13 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975477
+      output: web, pdf
+
+
+
