@@ -21,7 +21,6 @@ Michael Hanks
 ## Group 2 - Problem 1.14  
 
 Andrea Guzman  
-Alexander Bentley  
 Ying Chou  
 Jose Diaz  
 
@@ -30,7 +29,7 @@ Jose Diaz
 ## Group 3 - Problem 1.12
 
 Matthew Farley  
-Kaden Hamblin  
+Kale Miskin  
 Travis Jacobs  
 Branden Karl  
 
@@ -40,7 +39,8 @@ Branden Karl
 Rachel Chang  
 Daniel Rykowski  
 Dillon Bird  
-Kale Miskin  
+Kaden Hamblin
+  
 
 
 ## Group 5 - Curved Motion Diagrams  
@@ -64,7 +64,7 @@ Ayele Yebassa
 Samuel McCartney  
 Collin Chandler  
 Eli Andrew  
-
+Alex Bentley
 
 
 ## Group 8 - Conceptual Question 1.8

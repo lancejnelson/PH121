@@ -48,13 +48,14 @@ Scott Nicholes
 Tanner Anderson  
 Hunter Wilhelm  
 Trevor Watkins  
-Erik Rutledge  
+Erik Birch  
+  
 
 
 ## Group 6 - Conceptual Question 1.6  
 
 Caitlin Proctor  
-Benjamin Runger  
+Jaren Abbott  
 Alexander Pierce  
 Garret Page  
 
@@ -69,6 +70,10 @@ David Friebe
 
 ## Group 8 - Conceptual Question 1.8  
 
-Erik Birch  
+
 Natalie Adamo  
-Jaren Abbott  
+Erik Rutledge
+Michael Bender
+Ben Runger
+
+  
