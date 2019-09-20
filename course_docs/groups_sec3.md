@@ -10,7 +10,7 @@ folder: course_docs
 ---
 
 
-## Group 1 - Problem 1.16  
+## Group 1 - Problem 1.55    
 
 Caleb Stratton  
 Caden Skinner  
@@ -18,7 +18,7 @@ Josh Pinder
 Michael Hanks  
 
 
-## Group 2 - Problem 1.14  
+## Group 2 - Problem 1.57  
 
 Andrea Guzman  
 Ying Chou  
@@ -26,7 +26,7 @@ Jose Diaz
 
 
 
-## Group 3 - Problem 1.12
+## Group 3 - Problem 1.28  
 
 Matthew Farley  
 Kale Miskin  
@@ -34,7 +34,7 @@ Travis Jacobs
 Branden Karl  
 
 
-## Group 4 - Tactic Box 1.3 Finding the Acceleration Vector  
+## Group 4 - Problem 1.24    
 
 Rachel Chang  
 Daniel Rykowski  
@@ -43,7 +43,7 @@ Kaden Hamblin
   
 
 
-## Group 5 - Curved Motion Diagrams  
+## Group 5 - Problem 1.56  
 
 Ben Fisher  
 Jonah Brooks  
@@ -51,7 +51,7 @@ Isaac Diaz
 Colby Hatton  
 
 
-## Group 6 - Conceptual Question 1.6  
+## Group 6 - Dimensions of Physical Quantities  
 
 Ethan Vorkink  
 Jonathan Rivera  
@@ -59,7 +59,7 @@ Grant Spears
 Ayele Yebassa  
 
 
-## Group 7 - Conceptual Question 1.7  
+## Group 7 - Consistency of Units  
 
 Samuel McCartney  
 Collin Chandler  
@@ -67,7 +67,7 @@ Eli Andrew
 Alex Bentley
 
 
-## Group 8 - Conceptual Question 1.8
+## Group 8 - Converting Between Units  
 
 Mira Bushman  
 Merrell Allen  
