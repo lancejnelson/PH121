@@ -11,7 +11,7 @@ folder: course_docs
 
 
 
-## Group 1  - Problem 2.1    
+## Group 1  - Problem 2.19    
 
 Joe Arnold  
 Trevor Munk  
@@ -19,7 +19,7 @@ Daniel Thomson
 Jacob Farnbach  
 
 
-## Group 2  - Problem 2.4  
+## Group 2  - Problem 2.17  
 
 Luke Romeril  
 Josh Peterson  
@@ -27,7 +27,7 @@ Micayla Argueta
 Austin Harrison  
 
 
-## Group 3  - Velocity Graphs from Position versus Time  
+## Group 3  - Problem 2.52  
 
 Hailey Wilding  
 Thomas Burr  
@@ -35,7 +35,7 @@ Elias Moreira
 Sam Hammond  
 
 
-## Group 4  - Problem 2.6  
+## Group 4  - Problem 2.49   
 
 Zach Delano  
 Joshua Pattullo  
@@ -43,7 +43,7 @@ Mckay Crichton
 Scott Nicholes  
 
 
-## Group 5  - Problem 2.5  
+## Group 5  - Problem 2.53  
 
 Tanner Anderson  
 Hunter Wilhelm  
@@ -52,7 +52,7 @@ Erik Birch
   
 
 
-## Group 6 - Problem 2.34  
+## Group 6 - Problem 2.54  
 
 Caitlin Proctor  
 Jaren Abbott  
@@ -60,7 +60,7 @@ Alexander Pierce
 Garret Page  
 
 
-## Group 7 - Problem 2.35  
+## Group 7 - Problem 2.61  
 
 Samuel Myer  
 Nick Gonzalez  
@@ -68,7 +68,7 @@ Nicolaas Gartside
 David Friebe  
 
 
-## Group 8 - Problem 2.39  
+## Group 8 - Problem 2.64  
 
 
 Natalie Adamo  
