@@ -10,7 +10,7 @@ folder: course_docs
 ---
 
 
-## Group 1 - Problem 2.19    
+## Group 1 - Problem 2.57    
 
 Caleb Stratton  
 Caden Skinner  
@@ -18,7 +18,7 @@ Josh Pinder
 Michael Hanks  
 
 
-## Group 2 - Problem 2.17  
+## Group 2 - Problem 2.58  
 
 Andrea Guzman  
 Ying Chou  
@@ -26,7 +26,7 @@ Jose Diaz
 
 
 
-## Group 3 - Problem 2.52  
+## Group 3 - Problem 2.23  
 
 Matthew Farley  
 Kale Miskin  
@@ -34,7 +34,7 @@ Travis Jacobs
 Branden Karl  
 
 
-## Group 4 - Problem 2.49    
+## Group 4 - Problem 2.24    
 
 Rachel Chang  
 Daniel Rykowski  
@@ -43,7 +43,7 @@ Kaden Hamblin
   
 
 
-## Group 5 - Problem 2.53  
+## Group 5 - Problem 2.62    
 
 Ben Fisher  
 Jonah Brooks  
@@ -51,7 +51,7 @@ Isaac Diaz
 Colby Hatton  
 
 
-## Group 6 - Problem 2.54  
+## Group 6 - Problem 2.63    
 
 Ethan Vorkink  
 Jonathan Rivera  
@@ -59,7 +59,7 @@ Grant Spears
 Ayele Yebassa  
 
 
-## Group 7 - Problem 2.61  
+## Group 7 - Problem 2.51  
 
 Samuel McCartney  
 Collin Chandler  
@@ -67,7 +67,7 @@ Eli Andrew
 Alex Bentley
 
 
-## Group 8 -  Problem 2.64    
+## Group 8 -  Problem 2.65    
 
 Mira Bushman  
 Merrell Allen  

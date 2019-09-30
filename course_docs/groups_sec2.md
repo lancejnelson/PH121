@@ -11,7 +11,7 @@ folder: course_docs
 
 
 
-## Group 1  - Problem 2.19    
+## Group 1  - Problem 2.57    
 
 Joe Arnold  
 Trevor Munk  
@@ -19,7 +19,7 @@ Daniel Thomson
 Jacob Farnbach  
 
 
-## Group 2  - Problem 2.17  
+## Group 2  - Problem 2.58  
 
 Luke Romeril  
 Josh Peterson  
@@ -27,7 +27,7 @@ Micayla Argueta
 Austin Harrison  
 
 
-## Group 3  - Problem 2.52  
+## Group 3  - Problem 2.23  
 
 Hailey Wilding  
 Thomas Burr  
@@ -35,7 +35,7 @@ Elias Moreira
 Sam Hammond  
 
 
-## Group 4  - Problem 2.49   
+## Group 4  - Problem 2.24   
 
 Zach Delano  
 Joshua Pattullo  
@@ -43,7 +43,7 @@ Mckay Crichton
 Scott Nicholes  
 
 
-## Group 5  - Problem 2.53  
+## Group 5  - Problem 2.62  
 
 Tanner Anderson  
 Hunter Wilhelm  
@@ -52,7 +52,7 @@ Erik Birch
   
 
 
-## Group 6 - Problem 2.54  
+## Group 6 - Problem 2.63  
 
 Caitlin Proctor  
 Jaren Abbott  
@@ -60,7 +60,7 @@ Alexander Pierce
 Garret Page  
 
 
-## Group 7 - Problem 2.61  
+## Group 7 - Problem 2.51  
 
 Samuel Myer  
 Nick Gonzalez  
@@ -68,7 +68,7 @@ Nicolaas Gartside
 David Friebe  
 
 
-## Group 8 - Problem 2.64  
+## Group 8 - Problem 2.65  
 
 
 Natalie Adamo  
