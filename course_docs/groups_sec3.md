@@ -23,7 +23,7 @@ Michael Hanks
 Andrea Guzman  
 Ying Chou  
 Jose Diaz  
-
+Biya Yebassa
 
 
 ## Group 3 - Problem 2.36  
