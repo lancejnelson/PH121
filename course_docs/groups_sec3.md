@@ -12,10 +12,11 @@ folder: course_docs
 
 ## Group 1 - Problem 2.35    
 
-Caleb Stratton  
+Matthew Farley 
 Caden Skinner  
 Josh Pinder  
 Michael Hanks  
+Grant Spears  
 
 
 ## Group 2 - Problem 2.34    
@@ -28,10 +29,10 @@ Biya Yebassa
 
 ## Group 3 - Problem 2.36  
 
-Matthew Farley  
+Tyler Morton
 Kale Miskin  
 Travis Jacobs  
-Branden Karl  
+Jonathan Rivera  
 
 
 ## Group 4 - Problem 2.32    
@@ -51,15 +52,8 @@ Isaac Diaz
 Colby Hatton  
 
 
-## Group 6 - Problem 3.44    
 
-Ethan Vorkink  
-Jonathan Rivera  
-Grant Spears  
-Ayele Yebassa  
-
-
-## Group 7 - Problem 3.12  
+## Group 6 - Problem 3.12  
 
 Samuel McCartney  
 Collin Chandler  
@@ -67,8 +61,9 @@ Eli Andrew
 Alex Bentley
 
 
-## Group 8 -  Problem 3.19    
+## Group 7 -  Problem 3.19    
 
 Mira Bushman  
 Merrell Allen  
 Austin Flowers  
+Scott Miess
