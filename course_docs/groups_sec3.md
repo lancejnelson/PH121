@@ -12,7 +12,7 @@ folder: course_docs
 
 ## Group 1 - Problem 2.35    
 
-Matthew Farley 
+Matthew Farley  
 Caden Skinner  
 Josh Pinder  
 Michael Hanks  
@@ -29,7 +29,7 @@ Biya Yebassa
 
 ## Group 3 - Problem 2.36  
 
-Tyler Morton
+Tyler Morton  
 Kale Miskin  
 Travis Jacobs  
 Jonathan Rivera  
