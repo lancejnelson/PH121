@@ -99,6 +99,10 @@ entries:
       url: /files\/numericalHW\/vectors.pdf
       output: web, pdf
 
+    - title: Week 4 - Projectile Motion
+      url: /files\/numericalHW\/week4.pdf
+      output: web, pdf
+
   - title: Weekly Quizzes
     output: web, pdf
     folderitems:
