@@ -106,7 +106,7 @@ entries:
     - title: Week 5 - Muzzle Velocity
       url: /files\/numericalHW\/week5.pdf
       output: web, pd
-f
+
   - title: Weekly Quizzes
     output: web, pdf
     folderitems:
