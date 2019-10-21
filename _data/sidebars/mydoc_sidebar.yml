@@ -107,6 +107,10 @@ entries:
       url: /files\/numericalHW\/week5.pdf
       output: web, pd
 
+    - title: Week 6 - Data Fitting
+      url: /files\/numericalHW\/week6.pdf
+      output: web, pd
+
   - title: Weekly Quizzes
     output: web, pdf
     folderitems:
