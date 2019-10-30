@@ -111,6 +111,10 @@ entries:
       url: /files\/numericalHW\/week6.pdf
       output: web, pd
 
+    - title: Week 7 - Euler's Method
+      url: /files\/numericalHW\/week7.pdf
+      output: web, pd
+
   - title: Weekly Quizzes
     output: web, pdf
     folderitems:
