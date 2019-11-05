@@ -25,7 +25,7 @@ folder: course_docs
 [Day 13 - Newton's Second Law (Friction)][day13]  
 [Day 14 - Newton's Third Law][day14]  
 [Day 15 - Newton's Third Law (Ropes and Pulleys)][day15]  
-[Day 16 - Newton's Third Law (more)][day16]
+[Day 16 - Newton's Third Law (more)][day16]  
 [Day 17 - Newton's Second Law (Circular Motion)][day16]  
 [Day 18 - Newton's Second Law (Nonuniform Circular Motion)][day17]  
 [Day 19 - Work and Energy][day19]    
