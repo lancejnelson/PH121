@@ -21,6 +21,14 @@ folder: course_docs
 [Day 9 - Uniform Circular Motion][day9]  
 [Day 10 - Nonuniform Circular Motion][day10]
 [Day 11 - Newton's Laws][day11]  
+[Day 12 - Newton's Second Law][day12]  
+[Day 13 - Newton's Second Law (Friction)][day13]  
+[Day 14 - Newton's Third Law][day14]  
+[Day 15 - Newton's Third Law (Ropes and Pulleys)][day15]  
+[Day 16 - Newton's Third Law (more)][day16]
+[Day 17 - Newton's Second Law (Circular Motion)][day16]  
+[Day 18 - Newton's Second Law (Nonuniform Circular Motion)][day17]  
+[Day 19 - Work and Energy][day19]    
 
 [day1]: ../course_docs/slides/Day01IntroToMotion.pdf
 [day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf
@@ -33,5 +41,14 @@ folder: course_docs
 [day9]: ../course_docs/slides/D9-Uniform_Circular_Motion.pdf
 [day10]: ../course_docs/slides/D10-Nonuniform_Circular_Motion.pdf
 [day11]: ../course_docs/slides/D11-Newtons_Laws.pdf
+[day12]: ../course_docs/slides/D12-Newtons_Second_Law.pdf
+[day13]: ../course_docs/slides/D13-N2_with_Friction.pdf
+[day14]: ../course_docs/slides/D14-Newtons_Third.pdf
+[day15]: ../course_docs/slides/D15-Newtons_Third_Ropes_Pulleys.pdf
+[day16]: ../course_docs/slides/D16-More_Newtons_Third.pdf
+[day17]: ../course_docs/slides/D17-Newt_2_Circular.pdf
+[day18]: ../course_docs/slides/D18-N2_NonUniform_Circular.pdf
+[day19]: ../course_docs/slides/D19-Work_Energy.pdf
+
 
 
