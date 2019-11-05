@@ -115,6 +115,10 @@ entries:
       url: /files\/numericalHW\/week7.pdf
       output: web, pd
 
+    - title: Week 8 - Euler's Method (Projectile Motion with Drag)
+      url: /files\/numericalHW\/week8.pdf
+      output: web, pd
+
   - title: Weekly Quizzes
     output: web, pdf
     folderitems:
