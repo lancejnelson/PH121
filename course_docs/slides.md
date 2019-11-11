@@ -29,6 +29,8 @@ folder: course_docs
 [Day 17 - Newton's Second Law (Circular Motion)][day16]  
 [Day 18 - Newton's Second Law (Nonuniform Circular Motion)][day17]  
 [Day 19 - Work and Energy][day19]    
+[Day 20 - Springs and Power][day20]    
+[Day 21 - Conservation of Energy][day21]    
 
 [day1]: ../course_docs/slides/Day01IntroToMotion.pdf
 [day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf
@@ -49,6 +51,8 @@ folder: course_docs
 [day17]: ../course_docs/slides/D17-Newt_2_Circular.pdf
 [day18]: ../course_docs/slides/D18-N2_NonUniform_Circular.pdf
 [day19]: ../course_docs/slides/D19-Work_Energy.pdf
+[day20]: ../course_docs/slides/D20-Spring_Power.pdf
+[day21]: ../course_docs/slides/D21-Cons_of_Energy.pdf
 
 
 
