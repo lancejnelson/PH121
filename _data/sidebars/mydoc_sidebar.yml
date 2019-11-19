@@ -123,6 +123,10 @@ entries:
       url: /files\/numericalHW\/week9.pdf
       output: web, pd
 
+    - title: Week 10 - The Rocket
+      url: /files\/numericalHW\/week10.pdf
+      output: web, pd
+
   - title: Weekly Quizzes
     output: web, pdf
     folderitems:
