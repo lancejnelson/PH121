@@ -170,4 +170,7 @@ entries:
     - title: Week 13 
       external_url: https://byui.instructure.com/courses/58656/assignments/1975477
       output: web, pdf
+    - title: Final Exam 
+      external_url: https://byui.instructure.com/courses/58656/assignments/1975459
+      output: web, pdf
 
