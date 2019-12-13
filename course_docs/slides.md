@@ -67,7 +67,7 @@ folder: course_docs
 [day25]: ../course_docs/slides/D25-Jeopardy.pdf
 [day26]: ../course_docs/slides/D26-Torque-COM.pdf
 [day27]: ../course_docs/slides/D27-Torque_Dynamics.pdf
-[day28]: ../course_docs/slides/D28-Equilibrium_Rolling.pdf
+[day28]: ../course_docs/slides/D28-Equilibrium-Rolling.pdf
 [day29]: ../course_docs/slides/D29-Ang_Mom.pdf
 [day30]: ../course_docs/slides/D30-Gravity.pdf
 [day31]: ../course_docs/slides/D31-Grav_Pot_Energy.pdf
