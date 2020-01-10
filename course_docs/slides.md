@@ -10,8 +10,8 @@ folder: course_docs
 ---
 
 
-[Day 1 - Class Intro/Motion][day1]
-[Day 2 - Position/Velocity/Acceleration][day2]
+[Day 1 - Class Intro/Motion][day1]  
+[Day 2 - Position/Velocity/Acceleration][day2]  
 [comment]: # ([Day 3 - Units/ Significant Figures][day3]  )
 [comment]: # ([Day 4 - Calculus of Motion][day4]  )
 [comment]: # ([Day 5 - Kinematics][day5]  )
