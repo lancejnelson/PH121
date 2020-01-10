@@ -12,9 +12,9 @@ folder: course_docs
 
 [Day 1 - Class Intro/Motion][day1]  
 [Day 2 - Position/Velocity/Acceleration][day2]  
-[//]: # ([Day 3 - Units/ Significant Figures][day3]  )  
-[//]: # ([Day 4 - Calculus of Motion][day4]  )  
-[//]: # ([Day 5 - Kinematics][day5]  )  
+#[//]:  ([Day 3 - Units/ Significant Figures][day3]  )  
+#[//]:  ([Day 4 - Calculus of Motion][day4]  )  
+#[//]:  ([Day 5 - Kinematics][day5]  )  
 [//]: # ([Day 6 - Ramps][day6]  )  
 [//]: # ([Day 7 - Vectors][day7] )  
 [//]: # ([Day 8 - 2DKinematics][day8])  
@@ -60,7 +60,7 @@ folder: course_docs
 [//]: # ([day17]: ../course_docs/slides/D17-Newt_2_Circular.pdf)  
 [//]: # ([day18]: ../course_docs/slides/D18-N2_NonUniform_Circular.pdf)  
 [//]: # ([day19]: ../course_docs/slides/D19-Work_Energy.pdf)  
-[//]: # ([day20]: ../course_docs/slides/D20-Spring_Power.pdf)  
+#[//]: # ([day20]: ../course_docs/slides/D20-Spring_Power.pdf)  
 [//]: # ([day21]: ../course_docs/slides/D21-Cons_of_Energy.pdf)  
 [//]: # ([day22]: ../course_docs/slides/D22-Energy_Diagrams.pdf)  
 [//]: # ([day23]: ../course_docs/slides/D23-Momentum.pdf)  
