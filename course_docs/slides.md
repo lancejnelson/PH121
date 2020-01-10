@@ -10,8 +10,8 @@ folder: course_docs
 ---
 
 
-[comment]: # ([Day 1 - Class Intro/Motion][day1]  )
-[comment]: # ([Day 2 - Position/Velocity/Acceleration][day2])  
+[Day 1 - Class Intro/Motion][day1]
+[Day 2 - Position/Velocity/Acceleration][day2]
 [comment]: # ([Day 3 - Units/ Significant Figures][day3]  )
 [comment]: # ([Day 4 - Calculus of Motion][day4]  )
 [comment]: # ([Day 5 - Kinematics][day5]  )
@@ -41,8 +41,8 @@ folder: course_docs
 [comment]: # ([Day 30 - Gravitation][day30]    )
 [comment]: # ([Day 31 - Gravitational Potential Energy][day31])    
 
-[comment]: # ([day1]: ../course_docs/slides/Day01IntroToMotion.pdf)
-[comment]: # ([day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf)
+[day1]: ../course_docs/slides/D1-IntroToPH121.pdf
+[day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf
 [comment]: # ([day3]: ../course_docs/slides/Day3-Units-SigFigs.pdf)
 [comment]: # ([day4]: ../course_docs/slides/D4-Calc_of_Motion.pdf)
 [comment]: # ([day5]: ../course_docs/slides/D5-Kinematics.pdf)
