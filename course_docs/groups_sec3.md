@@ -1,69 +1,74 @@
 ---
-title: Group Assignments (10:15 section)
+title: Group Assignment ( 9:00 section)
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: Sep 17, 2019
 #tags: [course_docs]
 #summary: "Slides used during classroom discussions."
 sidebar: mydoc_sidebar
-permalink: groups_sec3.html
+permalink: groups_sec2.html
 folder: course_docs
 ---
 
 
-## Group 1 - Problem 2.35    
 
-Matthew Farley  
-Caden Skinner  
-Josh Pinder  
-Michael Hanks  
-Grant Spears  
+## Group 1  - Problem 2.35    
 
-
-## Group 2 - Problem 2.34    
-
-Andrea Guzman  
-Ying Chou  
-Jose Diaz  
-Biya Yebassa
+Alex Craig  
+Yannick Kabwika  
+Juan Calderon   
 
 
-## Group 3 - Problem 2.36  
+## Group 2  - Problem 2.34  
 
-Tyler Morton  
-Kale Miskin  
-Travis Jacobs  
-Jonathan Rivera  
+Joseph Landoe  
+Brandon Cragun
+Connor Barney  
 
 
-## Group 4 - Problem 2.32    
+## Group 3  - Problem 2.36  
 
-Rachel Chang  
-Daniel Rykowski  
-Dillon Bird  
-Kaden Hamblin
+Ashley Didier  
+Nathan Thompson  
+Madison Tate  
+Corbin Evans  
+
+
+## Group 4  - Problem 2.32   
+
+Natalia Izaguirre  
+Samuel Klunker  
+Gavin Marler  
+Darwin Dender  
+
+
+## Group 5  - Problem 3.25  
+
+Dallin Havens  
+Noah Lee  
+Chad Larkin  
+Anthony Lasley  
+
+## Group 6 - Problem 3.44  
+
+Truman Snyder  
+Levi Burton  
+Denny Ortega  
+Franklin Caceres  
+
+
+## Group 7 - Problem 3.12  
+
+Leir Mitchell  
+Jacob Pulsipher  
+Anthony Virgin  
+Brandon Sanchez  
+
+
+## Group 8 - Problem 3.19  
+
+Jake Paul  
+Logan May  
+Brendan Mead  
+Bekah Bentley  
+
   
-
-
-## Group 5 - Problem 3.25      
-
-Ben Fisher  
-Jonah Brooks  
-Isaac Diaz  
-Colby Hatton  
-
-
-
-## Group 6 - Problem 3.12  
-
-Samuel McCartney  
-Collin Chandler  
-Eli Andrew  
-Alex Bentley
-
-
-## Group 7 -  Problem 3.19    
-
-Mira Bushman  
-Merrell Allen  
-Austin Flowers  
-Scott Miess

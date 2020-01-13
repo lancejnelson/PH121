@@ -1,79 +1,75 @@
 ---
-title: Group Assignment ( 9:00 section)
+title: Group Assignments (10:15 section)
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: Sep 17, 2019
 #tags: [course_docs]
 #summary: "Slides used during classroom discussions."
 sidebar: mydoc_sidebar
-permalink: groups_sec2.html
+permalink: groups_sec3.html
 folder: course_docs
 ---
 
 
+## Group 1 - Problem 2.35    
 
-## Group 1  - Problem 2.35    
-
-Joe Arnold  
-Trevor Munk  
-Daniel Thomson  
-Jacob Farnbach  
-
-
-## Group 2  - Problem 2.34  
-
-Luke Romeril  
-Josh Peterson  
-Micayla Argueta  
-Austin Harrison  
+Anamol Adhikari  
+Nathan Chugg  
+Mark Blakely  
+Trevor Hughes  
 
 
-## Group 3  - Problem 2.36  
+## Group 2 - Problem 2.34     ---  
 
-Hailey Wilding  
-Thomas Burr  
-Elias Moreira  
-Sam Hammond  
-
-
-## Group 4  - Problem 2.32   
-
-Zach Delano  
-Joshua Pattullo  
-Mckay Crichton  
-Scott Nicholes  
+Harry Rankin  
+Grant Mickle  
+Zach Wilson  
+Shannara Raddigan  
 
 
-## Group 5  - Problem 3.25  
+## Group 3 - Problem 2.36   ---   
 
-Tanner Anderson  
-Hunter Wilhelm  
-Trevor Watkins  
-Erik Birch  
-  
-
-
-## Group 6 - Problem 3.44  
-
-Caitlin Proctor  
-Jaren Abbott  
-Alexander Pierce  
-Garret Page  
+Meredith Stanley  
+David Ingram  
+Oleksii Vasiuk  
+Jarom Lybbert  
 
 
-## Group 7 - Problem 3.12  
+## Group 4 - Problem 2.32    
 
-Samuel Myer  
-Nick Gonzalez  
-Nicolaas Gartside  
-David Friebe  
-
-
-## Group 8 - Problem 3.19  
+Alexis Troy  
+Gavin Slater  
+Todd Gonzalez  
+Ryan Kunz  
 
 
-Natalie Adamo  
-Erik Rutledge  
-Michael Bender  
-Ben Runger  
+## Group 5 - Problem 3.25      
 
-  
+Riley Dixon  
+Stephen Herriott  
+Matty Davis  
+Nic Beesley  
+Auria Short  
+
+
+## Group 6 - Problem 3.12  
+
+Scott Greer  
+Jeff Maya  
+Ryan Cox  
+Lucas Brogdon
+
+
+## Group 7 -  Problem 3.19    
+
+Jadon Smith  
+Austin Haehnel  
+Yiqi Wang  
+Wyatt Jensen
+Spencer Mickelsen  
+
+## Group 8 -  Problem 3.19    
+
+Scott Miess  
+Ken Smith  
+Junior Herrera  
+Joshua Nestman  
