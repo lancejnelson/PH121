@@ -56,7 +56,7 @@ Auria Short
 Scott Greer  
 Jeff Maya  
 Ryan Cox  
-Lucas Brogdon
+Lucas Brogdon  
 
 
 ## Group 7 -  Problem 3.19    
@@ -64,7 +64,7 @@ Lucas Brogdon
 Jadon Smith  
 Austin Haehnel  
 Yiqi Wang  
-Wyatt Jensen
+Wyatt Jensen  
 Spencer Mickelsen  
 
 ## Group 8 -  Problem 3.19    

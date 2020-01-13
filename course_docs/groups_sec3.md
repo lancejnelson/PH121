@@ -21,7 +21,7 @@ Juan Calderon
 ## Group 2  - Problem 2.34  
 
 Joseph Landoe  
-Brandon Cragun
+Brandon Cragun  
 Connor Barney  
 
 
