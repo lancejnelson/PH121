@@ -1,5 +1,5 @@
 ---
-title: Group Assignment ( 9:00 section)
+title: Group Assignment ( 10:15 section)
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: Sep 17, 2019
 #tags: [course_docs]

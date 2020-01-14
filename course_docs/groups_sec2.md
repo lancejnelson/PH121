@@ -1,5 +1,5 @@
 ---
-title: Group Assignments (10:15 section)
+title: Group Assignments (9:00 section)
 keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
 last_updated: Sep 17, 2019
 #tags: [course_docs]
@@ -18,7 +18,7 @@ Mark Blakely
 Trevor Hughes  
 
 
-## Group 2 - Problem 1.56     ---  
+## Group 2 - Problem 1.56   
 
 Harry Rankin  
 Grant Mickle  
@@ -26,7 +26,7 @@ Zach Wilson
 Shannara Raddigan  
 
 
-## Group 3 - Problem 1.25   ---   
+## Group 3 - Problem 1.25   
 
 Meredith Stanley  
 David Ingram  
