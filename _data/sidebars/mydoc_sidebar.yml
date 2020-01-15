@@ -87,45 +87,45 @@ entries:
       url: /files\/numericalHW\/basicMath.pdf
       output: web, pdf
 
-    - title: Week 3 - Python is your calculator
-      url: /files\/numericalHW\/doaHWProbleminPython.pdf
-      output: web, pdf
-
-    - title: Week 4 - Vectors
-      url: /files\/numericalHW\/vectors.pdf
-      output: web, pdf
-
-    - title: Week 5 - Projectile Motion
-      url: /files\/numericalHW\/week4.pdf
-      output: web, pdf
-
-    - title: Week 6 - Muzzle Velocity
-      url: /files\/numericalHW\/week5.pdf
-      output: web, pd
-
-    - title: Week 7 - Data Fitting
-      url: /files\/numericalHW\/week6.pdf
-      output: web, pd
-
-    - title: Week 8 - Euler's Method
-      url: /files\/numericalHW\/week7.pdf
-      output: web, pd
-
-    - title: Week 9 - Euler's Method (Projectile Motion with Drag)
-      url: /files\/numericalHW\/week8.pdf
-      output: web, pd
-
-    - title: Week 10 - Felix's Jump
-      url: /files\/numericalHW\/week9.pdf
-      output: web, pd
-
-    - title: Week 11 - The Rocket
-      url: /files\/numericalHW\/week10.pdf
-      output: web, pd
-
-    - title: Week 12 - Orbiting satellite
-      url: /files\/numericalHW\/week12.pdf
-      output: web, pd
+<!--    - title: Week 3 - Python is your calculator --->  
+<!--      url: /files\/numericalHW\/doaHWProbleminPython.pdf --->  
+<!--      output: web, pdf--->  
+<!--
+<!--    - title: Week 4 - Vectors --->  
+<!--      url: /files\/numericalHW\/vectors.pdf --->  
+<!--      output: web, pdf--->  
+<!--
+<!--    - title: Week 5 - Projectile Motion --->  
+<!--      url: /files\/numericalHW\/week4.pdf--->  
+<!--      output: web, pdf--->  
+<!--
+<!--    - title: Week 6 - Muzzle Velocity --->  
+<!--      url: /files\/numericalHW\/week5.pdf--->  
+<!--      output: web, pd--->  
+<!--
+<!--    - title: Week 7 - Data Fitting --->  
+<!--      url: /files\/numericalHW\/week6.pdf--->  
+<!--      output: web, pd--->  
+<!--
+<!--    - title: Week 8 - Euler's Method --->  
+<!--      url: /files\/numericalHW\/week7.pdf --->  
+<!--      output: web, pd --->  
+<!--
+<!--    - title: Week 9 - Euler's Method (Projectile Motion with Drag) --->  
+<!--      url: /files\/numericalHW\/week8.pdf--->  
+<!--      output: web, pd--->  
+<!--
+<!--    - title: Week 10 - Felix's Jump  --->  
+<!--      url: /files\/numericalHW\/week9.pdf --->  
+<!--      output: web, pd--->  
+<!--
+<!--    - title: Week 11 - The Rocket --->  
+<!--      url: /files\/numericalHW\/week10.pdf --->  
+<!--      output: web, pd--->  
+<!--
+<!--    - title: Week 12 - Orbiting satellite --->  
+<!--      url: /files\/numericalHW\/week12.pdf--->  
+<!--      output: web, pd --->  
 
   - title: Weekly Quizzes
     output: web, pdf
