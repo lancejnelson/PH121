@@ -87,10 +87,10 @@ entries:
       url: /files\/numericalHW\/basicMath.pdf
       output: web, pdf
 
-#    - title: Week 3 - Python is your calculator   
-#      url: /files\/numericalHW\/doaHWProbleminPython.pdf   
-#      output: web, pdf  
-#
+    - title: Week 3 - Python is your calculator   
+      url: /files\/numericalHW\/doaHWProbleminPython.pdf   
+      output: web, pdf  
+
 #    - title: Week 4 - Vectors   
 #      url: /files\/numericalHW\/vectors.pdf   
 #      output: web, pdf  
