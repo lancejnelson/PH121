@@ -17,10 +17,10 @@ folder: course_docs
 [Day 5 - Velocity to Position][day5]  
 [Day 6 - Kinematics][day6]  
 [Day 7 - Vectors][day7]  
-<!--[Day 8 - 2DKinematics][day8]--->  
-<!--[Day 9 - Uniform Circular Motion][day9]--->  
-<!--[Day 10 - Nonuniform Circular Motion][day10]--->  
-<!--[Day 11 - Newton's Laws][day11]  --->  
+[Day 8 - 2DKinematics][day8]  
+[Day 9 - Uniform Circular Motion][day9]  
+[Day 10 - Nonuniform Circular Motion][day10]  
+[Day 11 - Newton's Laws][day11]    
 <!--[Day 12 - Newton's Second Law][day12]--->  
 <!--[Day 13 - Newton's Second Law (Friction)][day13]--->  
 <!--[Day 14 - Newton's Third Law][day14]  --->  
@@ -48,10 +48,10 @@ folder: course_docs
 [day5]: ../course_docs/slides/D5-Velocity_to_Position.pdf  
 [day6]: ../course_docs/slides/D6-Kinematics.pdf  
 [day7]: ../course_docs/slides/D7-Vectors.pdf  
-<!--[day8]: ../course_docs/slides/D8-2DKinematics.pdf--->  
-<!--[day9]: ../course_docs/slides/D9-Uniform_Circular_Motion.pdf--->  
-<!--[day10]: ../course_docs/slides/D10-Nonuniform_Circular_Motion.pdf--->  
-<!--[day11]: ../course_docs/slides/D11-Newtons_Laws.pdf--->  
+[day8]: ../course_docs/slides/D8-2DKinematics.pdf    
+[day9]: ../course_docs/slides/D9-Uniform_Circular_Motion.pdf    
+[day10]: ../course_docs/slides/D10-Nonuniform_Circular_Motion.pdf    
+[day11]: ../course_docs/slides/D11-Newtons_Laws.pdf    
 <!--[day12]: ../course_docs/slides/D12-Newtons_Second_Law.pdf--->  
 <!--[day13]: ../course_docs/slides/D13-N2_with_Friction.pdf--->  
 <!--[day14]: ../course_docs/slides/D14-Newtons_Third.pdf--->  
