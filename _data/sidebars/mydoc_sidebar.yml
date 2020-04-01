@@ -123,9 +123,9 @@ entries:
       url: /files\/numericalHW\/week10.pdf   
       output: web, pd  
 
-#    - title: Week 12 - Orbiting satellite   
-#      url: /files\/numericalHW\/week12.pdf  
-#      output: web, pd   
+    - title: Week 13 - Orbiting satellite   
+      url: /files\/numericalHW\/week12.pdf  
+      output: web, pd   
 
   - title: Weekly Quizzes
     output: web, pdf
