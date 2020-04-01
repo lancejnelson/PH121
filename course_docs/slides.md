@@ -33,7 +33,7 @@ folder: course_docs
 [Day 21 - Conservation of Energy][day21]  
 [Day 22 - Energy Diagrams][day22]      
 [Day 23 - Momentum][day23]      
-<!--[Day 25 - Jeopardy][day25]      
+<!--[Day 25 - Jeopardy][day25]    --->  
 [Day 26 - Center of Mass, Torque][day26]   
 [Day 27 - Rotational Dynamics][day27]      
 [Day 28 - Static Equilibrium, Rolling Motion][day28]      
