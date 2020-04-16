@@ -71,12 +71,12 @@ entries:
       output: web, pdf
 
     - title: Gradebook
-      external_url: https://byui.instructure.com/courses/77378/gradebook
+      external_url: https://byui.instructure.com/courses/91708/gradebook
       output: web, pdf
       type: homepage
 
     - title: Textbook/HW access
-      external_url: https://byui.instructure.com/courses/77378/modules/items/9134142
+      external_url: https://byui.instructure.com/courses/91708/modules/items/9596302
       output: web, pdf
       type: homepage
 
@@ -134,39 +134,42 @@ entries:
       url: /viewingQuizResults.html
       output: web, pdf 
     - title: Week 2 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299545
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502647
       output: web, pdf
     - title: Week 3 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299549
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502651
       output: web, pdf
     - title: Week 4 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299553
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502655
       output: web, pdf
     - title: Week 5 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299557
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502659
       output: web, pdf
     - title: Week 6 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299561
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502663
       output: web, pdf
     - title: Week 7 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299565
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502667
       output: web, pdf
     - title: Week 8 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299569
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502671
       output: web, pdf
     - title: Week 9 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299573
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502675
       output: web, pdf
     - title: Week 10 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3300187
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502629
+      output: web, pdf
+    - title: Week 11 
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502633
       output: web, pdf
     - title: Week 12 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299531
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502637
       output: web, pdf
     - title: Week 13 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299535
+      external_url: https://byui.instructure.com/courses/91708/assignments/3502641
       output: web, pdf
     - title: Final Exam 
-      external_url: https://byui.instructure.com/courses/77378/assignments/3299539
+      external_url: https://byui.instructure.com/courses/91708~/assignments/3502615
       output: web, pdf
 
