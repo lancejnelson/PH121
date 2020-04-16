@@ -10,34 +10,34 @@ folder: course_docs
 ---
 
 
-[Day 1 - Class Intro/Motion][day1]  
-[Day 2 - Position/Velocity/Acceleration][day2]  
-[Day 3 - Units/ Significant Figures][day3]  
-[Day 4 - Calculus of Motion][day4]  
-[Day 5 - Velocity to Position][day5]  
-[Day 6 - Kinematics][day6]  
-[Day 7 - Vectors][day7]  
-[Day 8 - 2DKinematics][day8]  
-[Day 9 - Uniform Circular Motion][day9]  
-[Day 10 - Nonuniform Circular Motion][day10]  
-[Day 11 - Newton's Laws][day11]    
-[Day 12 - Newton's Second Law][day12]  
-[Day 13 - Newton's Second Law (Friction)][day13]  
-[Day 14 - Newton's Third Law][day14]    
-[Day 15 - Newton's Third Law (Ropes and Pulleys)][day15]  
-[Day 16 - Newton's Third Law (more)][day16]    
-[Day 17 - Newton's Second Law (Circular Motion)][day16]  
-[Day 18 - Newton's Second Law (Nonuniform Circular Motion)][day17]  
-[Day 19 - Work and Energy][day19]      
-[Day 20 - Springs and Power][day20]     
-[Day 21 - Conservation of Energy][day21]  
-[Day 22 - Energy Diagrams][day22]      
-[Day 23 - Momentum][day23]      
+<!-- [Day 1 - Class Intro/Motion][day1]  --->
+<!-- [Day 2 - Position/Velocity/Acceleration][day2]  --->
+<!-- [Day 3 - Units/ Significant Figures][day3]  --->
+<!-- [Day 4 - Calculus of Motion][day4]  --->
+<!-- [Day 5 - Velocity to Position][day5]  --->
+<!-- [Day 6 - Kinematics][day6]  --->
+<!-- [Day 7 - Vectors][day7]  --->
+<!-- [Day 8 - 2DKinematics][day8]  --->
+<!-- [Day 9 - Uniform Circular Motion][day9]  --->
+<!-- [Day 10 - Nonuniform Circular Motion][day10]  --->
+<!-- [Day 11 - Newton's Laws][day11]    --->
+<!-- [Day 12 - Newton's Second Law][day12]  --->
+<!-- [Day 13 - Newton's Second Law (Friction)][day13]  --->
+<!-- [Day 14 - Newton's Third Law][day14]    --->
+<!-- [Day 15 - Newton's Third Law (Ropes and Pulleys)][day15]   --->  
+<!-- [Day 16 - Newton's Third Law (more)][day16]    --->
+<!-- [Day 17 - Newton's Second Law (Circular Motion)][day16]  --->
+<!-- [Day 18 - Newton's Second Law (Nonuniform Circular Motion)][day17]  --->
+<!-- [Day 19 - Work and Energy][day19]      --->
+<!-- [Day 20 - Springs and Power][day20]     --->
+<!-- [Day 21 - Conservation of Energy][day21]  --->
+<!-- [Day 22 - Energy Diagrams][day22]   --->   
+<!-- [Day 23 - Momentum][day23]      --->
 <!--[Day 25 - Jeopardy][day25]    --->  
-[Day 26 - Center of Mass, Torque][day26]   
-[Day 27 - Rotational Dynamics][day27]      
-[Day 28 - Static Equilibrium, Rolling Motion][day28]      
-[Day 29 - Conservation of Angular Momentum][day29]      
+<!-- [Day 26 - Center of Mass, Torque][day26]   --->
+<!-- [Day 27 - Rotational Dynamics][day27]      --->
+<!-- [Day 28 - Static Equilibrium, Rolling Motion][day28]     ---> 
+<!-- [Day 29 - Conservation of Angular Momentum][day29]   --->    
 <!--[Day 30 - Gravitation][day30]    --->  
 <!--[Day 31 - Gravitational Potential Energy][day31]--->  
 
