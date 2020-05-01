@@ -10,12 +10,12 @@ folder: course_docs
 ---
 
 
-<!-- [Day 1 - Class Intro/Motion][day1]  --->
-<!-- [Day 2 - Position/Velocity/Acceleration][day2]  --->
-<!-- [Day 3 - Units/ Significant Figures][day3]  --->
-<!-- [Day 4 - Calculus of Motion][day4]  --->
-<!-- [Day 5 - Velocity to Position][day5]  --->
-<!-- [Day 6 - Kinematics][day6]  --->
+ [Day 1 - Class Intro/Motion][day1]  
+ [Day 2 - Position/Velocity/Acceleration][day2]  
+ [Day 3 - Units/ Significant Figures][day3]  
+ [Day 4 - Calculus of Motion][day4]  
+ [Day 5 - Velocity to Position][day5]  
+ [Day 6 - Kinematics][day6]  
 <!-- [Day 7 - Vectors][day7]  --->
 <!-- [Day 8 - 2DKinematics][day8]  --->
 <!-- [Day 9 - Uniform Circular Motion][day9]  --->
