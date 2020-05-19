@@ -16,12 +16,12 @@ folder: course_docs
  [Day 4 - Calculus of Motion][day4]  
  [Day 5 - Velocity to Position][day5]  
  [Day 6 - Kinematics][day6]  
-<!-- [Day 7 - Vectors][day7]  --->
-<!-- [Day 8 - 2DKinematics][day8]  --->
-<!-- [Day 9 - Uniform Circular Motion][day9]  --->
-<!-- [Day 10 - Nonuniform Circular Motion][day10]  --->
-<!-- [Day 11 - Newton's Laws][day11]    --->
-<!-- [Day 12 - Newton's Second Law][day12]  --->
+ [Day 7 - Vectors][day7]  
+ [Day 8 - 2DKinematics][day8]  
+ [Day 9 - Uniform Circular Motion][day9]  
+ [Day 10 - Nonuniform Circular Motion][day10]  
+ [Day 11 - Newton's Laws][day11]    
+ [Day 12 - Newton's Second Law][day12]  
 <!-- [Day 13 - Newton's Second Law (Friction)][day13]  --->
 <!-- [Day 14 - Newton's Third Law][day14]    --->
 <!-- [Day 15 - Newton's Third Law (Ropes and Pulleys)][day15]   --->  
