@@ -31,7 +31,7 @@ folder: course_docs
  [Day 19 - Work and Energy][day19]      
  [Day 20 - Springs and Power][day20]     
  [Day 21 - Conservation of Energy][day21]  
- [Day 22 - Energy Diagrams][day22]
+ [Day 22 - Energy Diagrams][day22]  
  [Euler's Method][eulers]
 <!-- [Day 23 - Momentum][day23]      --->
 <!--[Day 25 - Jeopardy][day25]    --->  
