@@ -29,9 +29,10 @@ folder: course_docs
  [Day 17 - Newton's Second Law (Circular Motion)][day16]  --->
  [Day 18 - Newton's Second Law (Nonuniform Circular Motion)][day17]  
  [Day 19 - Work and Energy][day19]      
-<!-- [Day 20 - Springs and Power][day20]     --->
-<!-- [Day 21 - Conservation of Energy][day21]  --->
-<!-- [Day 22 - Energy Diagrams][day22]   --->   
+ [Day 20 - Springs and Power][day20]     
+ [Day 21 - Conservation of Energy][day21]  
+ [Day 22 - Energy Diagrams][day22]
+ [Euler's Method][eulers]
 <!-- [Day 23 - Momentum][day23]      --->
 <!--[Day 25 - Jeopardy][day25]    --->  
 <!-- [Day 26 - Center of Mass, Torque][day26]   --->
@@ -68,7 +69,8 @@ folder: course_docs
 [day26]: ../course_docs/slides/D26-Torque-COM.pdf  
 [day27]: ../course_docs/slides/D27-Torque_Dynamics.pdf  
 [day28]: ../course_docs/slides/D28-Equilibrium-Rolling.pdf  
-[day29]: ../course_docs/slides/D29-Ang_Mom.pdf  
+[day29]: ../course_docs/slides/D29-Ang_Mom.pdf
+[eulers]: ../course_docs/slides/EulersMethod.pdf  
 <!--[day30]: ../course_docs/slides/D30-Gravity.pdf--->  
 <!--[day31]: ../course_docs/slides/D31-Grav_Pot_Energy.pdf--->  
 
