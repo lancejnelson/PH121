@@ -33,11 +33,12 @@ folder: course_docs
  [Day 21 - Conservation of Energy][day21]  
  [Day 22 - Energy Diagrams][day22]  
  [Euler's Method][eulers]
-<!-- [Day 23 - Momentum][day23]      --->
+ [Day 23 - Momentum][day23]      
+ [Day 24 - Momentum][day24]      
 <!--[Day 25 - Jeopardy][day25]    --->  
-<!-- [Day 26 - Center of Mass, Torque][day26]   --->
-<!-- [Day 27 - Rotational Dynamics][day27]      --->
-<!-- [Day 28 - Static Equilibrium, Rolling Motion][day28]     ---> 
+ [Day 25 - Center of Mass, Torque][day26]   
+ [Day 26 - Rotational Dynamics][day27]      
+ [Day 27 - Static Equilibrium, Rolling Motion][day28]      
 <!-- [Day 29 - Conservation of Angular Momentum][day29]   --->    
 <!--[Day 30 - Gravitation][day30]    --->  
 <!--[Day 31 - Gravitational Potential Energy][day31]--->  
@@ -65,6 +66,7 @@ folder: course_docs
 [day21]: ../course_docs/slides/D21-Cons_of_Energy.pdf  
 [day22]: ../course_docs/slides/D22-Energy_Diagrams.pdf  
 [day23]: ../course_docs/slides/D23-Momentum.pdf  
+[day24]: ../course_docs/slides/D24-Collisions.pdf  
 [day25]: ../course_docs/slides/D25-Jeopardy.pdf  
 [day26]: ../course_docs/slides/D26-Torque-COM.pdf  
 [day27]: ../course_docs/slides/D27-Torque_Dynamics.pdf  
@@ -73,6 +75,3 @@ folder: course_docs
 [eulers]: ../course_docs/slides/EulersMethod.pdf  
 <!--[day30]: ../course_docs/slides/D30-Gravity.pdf--->  
 <!--[day31]: ../course_docs/slides/D31-Grav_Pot_Energy.pdf--->  
-
-
-
