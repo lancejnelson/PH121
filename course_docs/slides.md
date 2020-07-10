@@ -32,14 +32,14 @@ folder: course_docs
  [Day 20 - Springs and Power][day20]     
  [Day 21 - Conservation of Energy][day21]  
  [Day 22 - Energy Diagrams][day22]  
- [Euler's Method][eulers]
+ [Euler's Method][eulers]  
  [Day 23 - Momentum][day23]      
- [Day 24 - Momentum][day24]      
+ [Day 24 - Collisions][day24]      
 <!--[Day 25 - Jeopardy][day25]    --->  
  [Day 25 - Center of Mass, Torque][day26]   
  [Day 26 - Rotational Dynamics][day27]      
  [Day 27 - Static Equilibrium, Rolling Motion][day28]      
-<!-- [Day 29 - Conservation of Angular Momentum][day29]   --->    
+ [Day 28 - Conservation of Angular Momentum][day29]       
 <!--[Day 30 - Gravitation][day30]    --->  
 <!--[Day 31 - Gravitational Potential Energy][day31]--->  
 
