@@ -40,8 +40,9 @@ folder: course_docs
  [Day 26 - Rotational Dynamics][day27]      
  [Day 27 - Static Equilibrium, Rolling Motion][day28]      
  [Day 28 - Conservation of Angular Momentum][day29]       
-<!--[Day 30 - Gravitation][day30]    --->  
-<!--[Day 31 - Gravitational Potential Energy][day31]--->  
+[Day 29 - Gravitation][day30]      
+[Day 30 - Gravitational Potential Energy][day31]  
+[Day 31 - Final Review][day32]  
 
 [day1]: ../course_docs/slides/D1-IntroToPH121.pdf  
 [day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf  
@@ -73,5 +74,6 @@ folder: course_docs
 [day28]: ../course_docs/slides/D28-Equilibrium-Rolling.pdf  
 [day29]: ../course_docs/slides/D29-Ang_Mom.pdf
 [eulers]: ../course_docs/slides/EulersMethod.pdf  
-<!--[day30]: ../course_docs/slides/D30-Gravity.pdf--->  
-<!--[day31]: ../course_docs/slides/D31-Grav_Pot_Energy.pdf--->  
+[day30]: ../course_docs/slides/D30-Gravity.pdf  
+[day31]: ../course_docs/slides/D31-Grav_Pot_Energy.pdf  
+[day32]: ../course_docs/slides/D32-Final-Review.pdf  
