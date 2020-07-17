@@ -76,4 +76,4 @@ folder: course_docs
 [eulers]: ../course_docs/slides/EulersMethod.pdf  
 [day30]: ../course_docs/slides/D30-Gravity.pdf  
 [day31]: ../course_docs/slides/D31-Grav_Pot_Energy.pdf  
-[day32]: ../course_docs/slides/D32-Final-Review.pdf  
+[day32]: ../course_docs/slides/D32-Final_Review.pdf  
