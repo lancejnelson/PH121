@@ -13,7 +13,7 @@ folder: course_docs
  [Day 1 - Class Intro/Motion][day1]  
  [Day 2 - Position/Velocity/Acceleration][day2]  
  [Day 3 - Units/ Significant Figures][day3]  
- [Day 4 - Calculus of Motion][day4]  
+<!-- [Day 4 - Calculus of Motion][day4]  
  [Day 5 - Velocity to Position][day5]  
  [Day 6 - Kinematics][day6]  
  [Day 7 - Vectors][day7]  
@@ -35,14 +35,14 @@ folder: course_docs
  [Euler's Method][eulers]  
  [Day 23 - Momentum][day23]      
  [Day 24 - Collisions][day24]      
-<!--[Day 25 - Jeopardy][day25]    --->  
+ [Day 25 - Jeopardy][day25]      
  [Day 25 - Center of Mass, Torque][day26]   
  [Day 26 - Rotational Dynamics][day27]      
  [Day 27 - Static Equilibrium, Rolling Motion][day28]      
  [Day 28 - Conservation of Angular Momentum][day29]       
 [Day 29 - Gravitation][day30]      
 [Day 30 - Gravitational Potential Energy][day31]  
-[Day 31 - Final Review][day32]  
+[Day 31 - Final Review][day32] --->
 
 [day1]: ../course_docs/slides/D1-IntroToPH121.pdf  
 [day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf  
