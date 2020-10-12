@@ -96,7 +96,7 @@ entries:
       output: web, pdf
 
     - title: Week 5 - Muzzle Velocity
-      url: /files\/numericalHW\/muzzle-velocity.ipynb
+      url: /files\/numericalHW\/muzzleVelocity.ipynb
       output: web, pdf
         # - title: Week 6 - Muzzle Velocity
     #   url: /files\/numericalHW\/week5.pdf
