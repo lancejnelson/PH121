@@ -100,7 +100,7 @@ entries:
       output: web, pdf
 
     - title: Week 6 - Curve Fitting
-      url: /files\/numericalHW\/CurveFitting.pdf
+      url: /files\/numericalHW\/CurveFitting.ipynb
       output: web, pdf
     #
     # - title: Week 7 - Data Fitting
