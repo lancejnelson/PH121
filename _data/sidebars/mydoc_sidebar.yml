@@ -98,9 +98,10 @@ entries:
     - title: Week 5 - Muzzle Velocity
       url: /files\/numericalHW\/muzzleVelocity.ipynb
       output: web, pdf
-        # - title: Week 6 - Muzzle Velocity
-    #   url: /files\/numericalHW\/week5.pdf
-    #   output: web, pd
+
+    - title: Week 6 - Curve Fitting
+      url: /files\/numericalHW\/CurveFitting.pdf
+      output: web, pdf
     #
     # - title: Week 7 - Data Fitting
     #   url: /files\/numericalHW\/week6.pdf
