@@ -102,10 +102,10 @@ entries:
     - title: Week 6 - Curve Fitting
       url: /files\/numericalHW\/CurveFitting.ipynb
       output: web, pdf
-    #
-    # - title: Week 7 - Data Fitting
-    #   url: /files\/numericalHW\/week6.pdf
-    #   output: web, pd
+    
+    - title: Week 7 - Euler's Method
+      url: /files\/numericalHW\/Euler-OneD.ipynb
+      output: web, pd
     #
     # - title: Week 8 - Euler's Method
     #   url: /files\/numericalHW\/week7.pdf
