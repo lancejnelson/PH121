@@ -110,10 +110,10 @@ entries:
     - title: Week 8 - Euler's Method - Projectiles with Air Drag
       url: /files\/numericalHW\/Euler-2D.ipynb
       output: web, pd
-    #
-    # - title: Week 9 - Euler's Method (Projectile Motion with Drag)
-    #   url: /files\/numericalHW\/week8.pdf
-    #   output: web, pd
+    
+    - title: Week 9 - Felix's Jump
+      url: /files\/numericalHW\/FelixB.ipynb
+      output: web, pd
     #
     # - title: Week 10 - Felix's Jump
     #   url: /files\/numericalHW\/week9.pdf
