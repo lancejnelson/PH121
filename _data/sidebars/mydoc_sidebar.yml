@@ -114,10 +114,10 @@ entries:
     - title: Week 9 - Felix's Jump
       url: /files\/numericalHW\/FelixB.ipynb
       output: web, pd
-    #
-    # - title: Week 10 - Felix's Jump
-    #   url: /files\/numericalHW\/week9.pdf
-    #   output: web, pd
+   
+    - title: Week 10 - Rocket Liftoff
+      url: /files\/numericalHW\/Rocket.ipynb
+      output: web, pd
     #
     # - title: Week 12 - The Rocket
     #   url: /files\/numericalHW\/week10.pdf
