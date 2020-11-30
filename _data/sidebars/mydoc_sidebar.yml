@@ -119,9 +119,9 @@ entries:
       url: /files\/numericalHW\/Rocket.ipynb
       output: web, pd
     #
-    # - title: Week 12 - The Rocket
-    #   url: /files\/numericalHW\/week10.pdf
-    #   output: web, pd
+    - title: Week 12 - Orbiting Satellite
+      url: /files\/numericalHW\/Satellite.ipynb
+      output: web, pd
     #
     # - title: Week 13 - Orbiting satellite
     #   url: /files\/numericalHW\/week12.pdf
