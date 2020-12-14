@@ -18,7 +18,7 @@ folder: course_docs
  [Day 6 - Kinematics][day6]  
  [Day 7 - Vectors][day7]  
  [Day 8 - 2DKinematics][day8]  
-<!-- [Day 9 - Uniform Circular Motion][day9]  
+ [Day 9 - Uniform Circular Motion][day9]  
  [Day 10 - Nonuniform Circular Motion][day10]  
  [Day 11 - Newton's Laws][day11]    
  [Day 12 - Newton's Second Law][day12]  
@@ -32,7 +32,6 @@ folder: course_docs
  [Day 20 - Springs and Power][day20]     
  [Day 21 - Conservation of Energy][day21]  
  [Day 22 - Energy Diagrams][day22]  
- [Euler's Method][eulers]  
  [Day 23 - Momentum][day23]      
  [Day 24 - Collisions][day24]      
  [Day 25 - Jeopardy][day25]      
@@ -42,7 +41,7 @@ folder: course_docs
  [Day 28 - Conservation of Angular Momentum][day29]       
 [Day 29 - Gravitation][day30]      
 [Day 30 - Gravitational Potential Energy][day31]  
-[Day 31 - Final Review][day32] --->
+<!--[Day 31 - Final Review][day32] --->
 
 [day1]: ../course_docs/slides/D1-IntroToPH121.pdf  
 [day2]: ../course_docs/slides/D2-Position_Velocity_Acceleration_MDs.pdf  
