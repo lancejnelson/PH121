@@ -10,7 +10,7 @@ folder: course_docs
 ---
 
 
- [Day 1 - Class Intro/Motion][day1]  
+<!-- [Day 1 - Class Intro/Motion][day1]  
  [Day 2 - Position/Velocity/Acceleration][day2]  
  [Day 3 - Units/ Significant Figures][day3]  
  [Day 4 - Calculus of Motion][day4]  
@@ -40,7 +40,7 @@ folder: course_docs
  [Day 27 - Static Equilibrium, Rolling Motion][day28]      
  [Day 28 - Conservation of Angular Momentum][day29]       
 [Day 29 - Gravitation][day30]      
-[Day 30 - Gravitational Potential Energy][day31]  
+[Day 30 - Gravitational Potential Energy][day31]  <--
 <!--[Day 31 - Final Review][day32] --->
 
 [day1]: ../course_docs/slides/D1-IntroToPH121.pdf  
